@@ -1,5 +1,7 @@
 # Maurer-Rose-Curve--Python
 SUBSCRIBE TO AUCTUX
+https://www.youtube.com/channel/UCjPk9YDheKst1FlAf_KSpyA
+
 Rhodonea Cuve and Maurer Curve 
 
 tweak the num and d value to change the curve 
